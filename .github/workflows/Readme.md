@@ -62,9 +62,6 @@ Decision-support platform for optimizing renewable energy deployment based on ge
 AI sustainability system that intelligently routes inference between small models and LLMs to reduce energy cost.</td>
 </tr>
 
-<tr>
-<td><b>Cold Storage Crop Monitoring System</b><br>
-Arduino + sensor-based monitoring system with AI-based spoilage prediction for farmers.</td>
 
 <td><b>AI Market & Trend Analysis Engine</b><br>
 AI system that fuses news, sentiment, and data signals to predict business up/down trends.</td>
