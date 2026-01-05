@@ -83,8 +83,8 @@ AI system that fuses news, sentiment, and data signals to predict business up/do
 <h3><li align="left">📊 GitHub Stats</li></h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirakjain-official&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirakjain-official&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hirakjain-official&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hirakjain-official&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
 </p>
 
 ---
