@@ -34,13 +34,6 @@ A browser-based learning environment where an AI Socratic mentor watches you cod
 
 ---
 
-### CertifyX
-> AI-powered certification & developer assessment platform
-
-Replacing shallow MCQ culture with real scenario-driven assessments. Built for teams and communities that actually want to verify skill depth.
-
----
-
 ### VulnScan AI *(stealth)*
 > AI code vulnerability scanner for early-stage startups
 
