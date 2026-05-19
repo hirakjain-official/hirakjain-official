@@ -1,11 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
 
 # Hirak Jain
 ### Building things that make developers actually better.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Founder+%40+Zero+Hour;Full-Stack+Developer;AI+%2B+Systems+Builder;B.Tech+AI+%26+Data+Science+%7C+GGSIPU+%2729)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Building+%40+Zero+Hour;AI+Enginner;AI+%2B+Systems+Builder;B.Tech+AI+%26+Data+Science+%7C+GGSIPU+%2729)](https://git.io/typing-svg)
 
 </div>
 
