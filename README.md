@@ -56,9 +56,9 @@ Tools          →  Git · Playwright · ChromaDB · Meta Cloud API
 | Event | Achievement |
 |-------|-------------|
 | **AI for Bharat** | 🥇 Top 700 from 29,000+ teams |
-| **Hack4Delhi / IEEE NSUT** | Ward Wise Air Pollution Monitoring App |
-| **Smart India Hackathon 2025** | Coastal Hazard Intelligence System |
-| **AWS Zero Hour Hackathon** | Campus AI Track — Zero Hour submission |
+| **Hack4Delhi / IEEE NSUT** | Pitched to CM of Delhi |
+| **Smart India Hackathon 2025** | Selected for semi-finals |
+
 
 ---
 
